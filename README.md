@@ -147,20 +147,22 @@ I J 3 <br>
 F H 7 <br>
 I H 2 <br>
 A 10 <br>
-B 8 <br>
-C 5 <br>
-D 7 <br>
-E 3 <br>
-F 6 <br>
-G 5 <br>
-H 3 <br>
-I 1 <br>
-J 0 <br>
+B  8 <br>
+C  5 <br>
+D  7 <br>
+E  3 <br>
+F  6 <br>
+G  5 <br>
+H  3 <br>
+I  1 <br>
+J  0 <br>
 <hr>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
-![image](https://github.com/user-attachments/assets/d6167afb-391a-4ffb-b8f7-5e5b86160c1b)
+
+![image](https://github.com/user-attachments/assets/de6d5cfc-6477-4e9b-a6de-ae9017b493c0)
+
 
 
 <hr>
