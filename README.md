@@ -190,7 +190,8 @@ D 1 <br>
 G 0 <br>
 <hr>
 <h2>Sample Output</h2>
-![image](https://github.com/user-attachments/assets/ba35225e-4fb8-48f1-8944-db8404aa2145)
+
+
 
 <hr>
 Path found: ['A', 'E', 'D', 'G']
